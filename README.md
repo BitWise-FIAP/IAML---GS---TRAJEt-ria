@@ -164,3 +164,4 @@ cidadão e limitações — está em **[`RELATORIO_ML.md`](RELATORIO_ML.md)**.
 ## Vídeo
 
 Apresentação de 5 minutos: **[preencher com o link do YouTube não listado]**.
+Roteiro de gravação em [`ROTEIRO_VIDEO.md`](ROTEIRO_VIDEO.md).
