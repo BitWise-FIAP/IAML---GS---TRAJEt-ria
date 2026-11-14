@@ -91,9 +91,12 @@ municípios vizinhos de maior volume — São Bernardo, Santo André, Mauá e Di
 .
 ├── README.md                  # este arquivo
 ├── RELATORIO_ML.md            # relatório de 2 a 4 páginas
+├── ROTEIRO_VIDEO.md           # roteiro do vídeo de 5 minutos
 ├── .gitignore
+├── .gitattributes
 └── ml/
     ├── trajetoria_ml.ipynb    # notebook EXECUTADO (Restart & Run All)
+    ├── verificar_entrega.py   # checagem automática dos itens da rubrica
     ├── requirements.txt
     ├── src/
     │   └── ibge_api.py        # coleta e tratamento da API do IBGE
@@ -104,6 +107,7 @@ municípios vizinhos de maior volume — São Bernardo, Santo André, Mauá e Di
     │       ├── municipios_features.csv
     │       └── prioridade_sp.csv
     └── figuras/               # gráficos gerados pelo notebook
+        └── README.md          # índice das figuras
 ```
 
 ## Como reproduzir
@@ -125,6 +129,21 @@ jupyter nbconvert --to notebook --execute --inplace trajetoria_ml.ipynb
 
 O notebook funciona **offline**: o snapshot do IBGE está em `ml/dados/raw/`.
 Para forçar nova coleta, rode `ibge_api.baixar_todas(forcar=True)`.
+
+## Como verificar a entrega
+
+Um script confere automaticamente cada item da rubrica — notebook executado sem
+erros, semente fixa, 24 combinações de 3 hiperparâmetros, CV sem tocar no teste,
+métricas de treino e teste, curva de overfitting, cobertura dos dados e o ranking
+de 645 municípios:
+
+```bash
+cd ml
+python verificar_entrega.py
+```
+
+Saída esperada: `37/38 verificações OK | 1 aviso` — o único aviso é o link do
+vídeo, que é manual.
 
 ## Uso de dados
 
