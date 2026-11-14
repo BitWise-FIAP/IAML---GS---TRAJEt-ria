@@ -67,9 +67,9 @@ fatores em linguagem acessível.
 
 Todas as variáveis vêm do **Censo Demográfico 2022**, agregadas por município,
 obtidas pela **API v3 do SIDRA** do IBGE. Não houve download manual nem planilha
-intermediária: o notebook chama a API, salva o JSON bruto em `ml/dados/raw/` e
+intermediária: o notebook chama a API, salva o JSON bruto em `dados/raw/` e
 trabalha a partir desse snapshot — o que torna a entrega reprodutível e auditável
-(URL, data da coleta e SHA-256 registrados em `ml/dados/README.md`).
+(URL, data da coleta e SHA-256 registrados em `dados/README.md`).
 
 | Tabela | O que fornece |
 |---|---|
@@ -291,12 +291,11 @@ dentro do território escolhido; para dimensionar a operação, o volume.
 
 * Notebook executado (Restart & Run All), semente fixa `42` em todas as etapas
   aleatórias.
-* Snapshot dos dados do IBGE versionado em `ml/dados/raw/`, com SHA-256.
-* Ambiente e versões em `ml/requirements.txt`.
-* Base de features e ranking em `ml/dados/processed/`.
+* Snapshot dos dados do IBGE versionado em `dados/raw/`, com SHA-256.
+* Ambiente e versões em `requirements.txt`.
+* Base de features e ranking em `dados/processed/`.
 
 ```bash
-cd ml
 pip install -r requirements.txt
 jupyter nbconvert --to notebook --execute --inplace trajetoria_ml.ipynb
 ```

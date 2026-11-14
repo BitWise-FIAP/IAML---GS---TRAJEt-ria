@@ -1,6 +1,6 @@
 # Figuras
 
-Todas geradas pelo notebook (`ml/trajetoria_ml.ipynb`) em 160 dpi, a partir do snapshot do Censo 2022.
+Todas geradas pelo notebook (`trajetoria_ml.ipynb`) em 160 dpi, a partir do snapshot do Censo 2022.
 
 | Arquivo | Seção | O que mostra | Por que importa |
 |---|---|---|---|
@@ -14,6 +14,5 @@ Todas geradas pelo notebook (`ml/trajetoria_ml.ipynb`) em 160 dpi, a partir do s
 Reproduzir:
 
 ```bash
-cd ml
 jupyter nbconvert --to notebook --execute --inplace trajetoria_ml.ipynb
 ```

@@ -50,7 +50,7 @@ Cada `*.meta.json` traz o SHA-256 completo, a URL exata e o horário UTC da cole
 ## 4. Como reproduzir a coleta
 
 ```bash
-# dentro de ml/
+# na raiz do repositório
 python src/ibge_api.py                 # baixa o que faltar e gera os CSVs
 ```
 

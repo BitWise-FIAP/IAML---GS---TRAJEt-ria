@@ -91,27 +91,25 @@ municípios vizinhos de maior volume — São Bernardo, Santo André, Mauá e Di
 .
 ├── README.md                  # este arquivo
 ├── RELATORIO_ML.md            # relatório de 2 a 4 páginas
+├── trajetoria_ml.ipynb        # notebook EXECUTADO (Restart & Run All)
+├── requirements.txt
 ├── .gitignore
 ├── .gitattributes
-└── ml/
-    ├── trajetoria_ml.ipynb    # notebook EXECUTADO (Restart & Run All)
-    ├── requirements.txt
-    ├── src/
-    │   └── ibge_api.py        # coleta e tratamento da API do IBGE
-    ├── dados/
-    │   ├── README.md          # fonte, URLs, dicionário, licença, hashes
-    │   ├── raw/               # snapshot das respostas do IBGE (JSON)
-    │   └── processed/
-    │       ├── municipios_features.csv
-    │       └── prioridade_sp.csv
-    └── figuras/               # gráficos gerados pelo notebook
-        └── README.md          # índice das figuras
+├── src/
+│   └── ibge_api.py            # coleta e tratamento da API do IBGE
+├── dados/
+│   ├── README.md              # fonte, URLs, dicionário, licença, hashes
+│   ├── raw/                   # snapshot das respostas do IBGE (JSON)
+│   └── processed/
+│       ├── municipios_features.csv
+│       └── prioridade_sp.csv
+└── figuras/                   # gráficos gerados pelo notebook
+    └── README.md              # índice das figuras
 ```
 
 ## Como reproduzir
 
 ```bash
-cd ml
 python -m venv .venv
 .venv\Scripts\activate            # Windows
 pip install -r requirements.txt
@@ -125,7 +123,7 @@ Para reexecutar do zero (Restart & Run All) e regravar as saídas:
 jupyter nbconvert --to notebook --execute --inplace trajetoria_ml.ipynb
 ```
 
-O notebook funciona **offline**: o snapshot do IBGE está em `ml/dados/raw/`.
+O notebook funciona **offline**: o snapshot do IBGE está em `dados/raw/`.
 Para forçar nova coleta, rode `ibge_api.baixar_todas(forcar=True)`.
 
 ## Como a entrega foi validada
@@ -144,18 +142,18 @@ do vídeo.
 | Pesquisa com 31 jovens (projeto) | **Motivação** apenas — amostra pequena e não pública |
 | `seed.json` do aplicativo | **Não utilizado** — dados fictícios, recusados pela rubrica |
 
-Detalhes de cada tabela, URLs, período, dicionário e SHA-256: **[`ml/dados/README.md`](ml/dados/README.md)**.
+Detalhes de cada tabela, URLs, período, dicionário e SHA-256: **[`dados/README.md`](dados/README.md)**.
 
 ## Entregáveis da disciplina
 
 | Critério | Onde está |
 |---|---|
-| Problema e dados reais (2,0) | `ml/trajetoria_ml.ipynb` §§1–3, `ml/dados/README.md` |
+| Problema e dados reais (2,0) | `trajetoria_ml.ipynb` §§1–3, `dados/README.md` |
 | Escolha do modelo (1,0) | §7 do notebook e §4 do relatório |
 | Preparação e split (2,0) | §5 do notebook |
 | Treino com ≥10 combinações (2,0) | §7 — 24 combinações, CV só no treino |
 | Treino vs teste e overfitting (2,0) | §§8–9 e figuras `03`, `04` |
-| Conclusão para o cidadão (1,0) | §§11–12 e `ml/dados/processed/prioridade_sp.csv` |
+| Conclusão para o cidadão (1,0) | §§11–12 e `dados/processed/prioridade_sp.csv` |
 
 ## Limitações
 
