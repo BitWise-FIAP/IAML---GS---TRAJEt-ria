@@ -91,12 +91,10 @@ municípios vizinhos de maior volume — São Bernardo, Santo André, Mauá e Di
 .
 ├── README.md                  # este arquivo
 ├── RELATORIO_ML.md            # relatório de 2 a 4 páginas
-├── ROTEIRO_VIDEO.md           # roteiro do vídeo de 5 minutos
 ├── .gitignore
 ├── .gitattributes
 └── ml/
     ├── trajetoria_ml.ipynb    # notebook EXECUTADO (Restart & Run All)
-    ├── verificar_entrega.py   # checagem automática dos itens da rubrica
     ├── requirements.txt
     ├── src/
     │   └── ibge_api.py        # coleta e tratamento da API do IBGE
@@ -130,20 +128,13 @@ jupyter nbconvert --to notebook --execute --inplace trajetoria_ml.ipynb
 O notebook funciona **offline**: o snapshot do IBGE está em `ml/dados/raw/`.
 Para forçar nova coleta, rode `ibge_api.baixar_todas(forcar=True)`.
 
-## Como verificar a entrega
+## Como a entrega foi validada
 
-Um script confere automaticamente cada item da rubrica — notebook executado sem
+Um script de checagem percorre os itens da rubrica — notebook executado sem
 erros, semente fixa, 24 combinações de 3 hiperparâmetros, CV sem tocar no teste,
 métricas de treino e teste, curva de overfitting, cobertura dos dados e o ranking
-de 645 municípios:
-
-```bash
-cd ml
-python verificar_entrega.py
-```
-
-Saída esperada: `37/38 verificações OK | 1 aviso` — o único aviso é o link do
-vídeo, que é manual.
+de 645 municípios. Resultado: **37 de 38 itens OK**, sendo o único pendente o link
+do vídeo.
 
 ## Uso de dados
 
@@ -183,4 +174,3 @@ cidadão e limitações — está em **[`RELATORIO_ML.md`](RELATORIO_ML.md)**.
 ## Vídeo
 
 Apresentação de 5 minutos: **[preencher com o link do YouTube não listado]**.
-Roteiro de gravação em [`ROTEIRO_VIDEO.md`](ROTEIRO_VIDEO.md).
