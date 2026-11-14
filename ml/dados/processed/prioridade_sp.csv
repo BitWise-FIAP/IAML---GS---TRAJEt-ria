@@ -1,0 +1,646 @@
+codigo_ibge,municipio,regiao,pop_18_24,taxa_observada,taxa_prevista,jovens_sem_EM_estimado,posicao_volume,prioridade,nivel_prioridade
+3550308,São Paulo,Capital,1129866,0.2643,0.2579,291410,1,100.0,Alta
+3518800,Guarulhos,Demais municípios de SP,137636,0.2655,0.2618,36032,2,99.8,Alta
+3509502,Campinas,Demais municípios de SP,108202,0.25,0.2376,25706,3,99.7,Alta
+3534401,Osasco,Demais municípios de SP,72388,0.2462,0.2563,18555,4,99.5,Alta
+3543402,Ribeirão Preto,Demais municípios de SP,69665,0.2799,0.2609,18176,5,99.4,Alta
+3548708,São Bernardo do Campo,ABC paulista,77463,0.2341,0.2312,17910,6,99.2,Alta
+3549904,São José dos Campos,Demais municípios de SP,67933,0.217,0.2329,15819,7,99.1,Alta
+3552205,Sorocaba,Demais municípios de SP,70934,0.2016,0.2203,15629,8,98.9,Alta
+3547809,Santo André,ABC paulista,67078,0.2038,0.2295,15392,9,98.8,Alta
+3523107,Itaquaquecetuba,Demais municípios de SP,42080,0.2726,0.3105,13065,10,98.6,Alta
+3551009,São Vicente,Demais municípios de SP,34415,0.3809,0.3335,11476,11,98.4,Alta
+3510609,Carapicuíba,Demais municípios de SP,42194,0.2522,0.2698,11382,12,98.3,Alta
+3529401,Mauá,ABC paulista,43807,0.2215,0.2569,11255,13,98.1,Alta
+3549805,São José do Rio Preto,Demais municípios de SP,45369,0.2518,0.2413,10948,14,98.0,Alta
+3518701,Guarujá,Demais municípios de SP,30763,0.3353,0.3387,10420,15,97.8,Alta
+3513801,Diadema,ABC paulista,42340,0.2094,0.2458,10407,16,97.7,Alta
+3530607,Mogi das Cruzes,Demais municípios de SP,46353,0.1995,0.2243,10398,17,97.5,Alta
+3506003,Bauru,Demais municípios de SP,38601,0.2556,0.2514,9703,18,97.4,Alta
+3538709,Piracicaba,Demais municípios de SP,40060,0.2264,0.2341,9379,19,97.2,Alta
+3541000,Praia Grande,Demais municípios de SP,32791,0.2861,0.279,9150,20,97.1,Alta
+3516200,Franca,Demais municípios de SP,35507,0.2242,0.2573,9137,21,96.9,Alta
+3515004,Embu das Artes,Demais municípios de SP,27829,0.295,0.3172,8827,22,96.7,Alta
+3525904,Jundiaí,Demais municípios de SP,39285,0.1995,0.2239,8795,23,96.6,Alta
+3552502,Suzano,Demais municípios de SP,33046,0.2206,0.2488,8221,24,96.4,Alta
+3522505,Itapevi,Demais municípios de SP,25685,0.2779,0.3127,8031,25,96.3,Alta
+3552809,Taboão da Serra,Demais municípios de SP,29052,0.2607,0.2604,7565,26,96.1,Alta
+3552403,Sumaré,Demais municípios de SP,27989,0.2366,0.2683,7508,27,96.0,Alta
+3526902,Limeira,Demais municípios de SP,28118,0.2546,0.2668,7502,28,95.8,Alta
+3505708,Barueri,Demais municípios de SP,31596,0.2353,0.2345,7410,29,95.7,Alta
+3548500,Santos,Demais municípios de SP,34380,0.2195,0.2016,6932,30,95.5,Alta
+3554102,Taubaté,Demais municípios de SP,28802,0.2195,0.2381,6857,31,95.3,Alta
+3516309,Francisco Morato,Demais municípios de SP,19149,0.3124,0.3553,6803,32,95.2,Alta
+3513009,Cotia,Demais municípios de SP,27595,0.2426,0.2441,6737,33,95.0,Alta
+3515707,Ferraz de Vasconcelos,Demais municípios de SP,20077,0.284,0.3177,6378,34,94.9,Alta
+3519071,Hortolândia,Demais municípios de SP,24841,0.2062,0.2516,6249,35,94.7,Alta
+3548906,São Carlos,Demais municípios de SP,26816,0.188,0.2239,6004,36,94.6,Alta
+3503208,Araraquara,Demais municípios de SP,22237,0.223,0.2412,5364,37,94.4,Alta
+3529005,Marília,Demais municípios de SP,21890,0.2158,0.2444,5350,38,94.3,Alta
+3520509,Indaiatuba,Demais municípios de SP,23325,0.212,0.2257,5264,39,94.1,Alta
+3522208,Itapecerica da Serra,Demais municípios de SP,17137,0.2264,0.3041,5211,40,94.0,Alta
+3541406,Presidente Prudente,Demais municípios de SP,21361,0.231,0.2412,5152,41,93.8,Alta
+3524402,Jacareí,Demais municípios de SP,22140,0.1935,0.2239,4957,42,93.6,Alta
+3516408,Franco da Rocha,Demais municípios de SP,16283,0.2565,0.2904,4728,43,93.5,Alta
+3543907,Rio Claro,Demais municípios de SP,19083,0.253,0.2404,4587,44,93.3,Alta
+3507605,Bragança Paulista,Demais municípios de SP,17142,0.2298,0.2631,4510,45,93.2,Alta
+3523909,Itu,Demais municípios de SP,16800,0.2617,0.2681,4504,46,93.0,Alta
+3522307,Itapetininga,Demais municípios de SP,16759,0.2563,0.2678,4488,47,92.9,Alta
+3501608,Americana,Demais municípios de SP,20581,0.1751,0.2144,4412,48,92.7,Alta
+3502804,Araçatuba,Demais municípios de SP,17953,0.2095,0.2329,4181,49,92.6,Alta
+3538006,Pindamonhangaba,Demais municípios de SP,15936,0.2265,0.2525,4023,50,92.4,Alta
+3513504,Cubatão,Demais municípios de SP,12147,0.3203,0.3302,4011,51,92.2,Alta
+3504107,Atibaia,Demais municípios de SP,14538,0.2857,0.2653,3857,52,92.1,Alta
+3545803,Santa Bárbara d'Oeste,Demais municípios de SP,16612,0.2024,0.2308,3834,53,91.9,Alta
+3530706,Mogi Guaçu,Demais municípios de SP,14300,0.275,0.2661,3805,54,91.8,Alta
+3554003,Tatuí,Demais municípios de SP,12292,0.2711,0.3087,3795,55,91.6,Alta
+3507506,Botucatu,Demais municípios de SP,14321,0.2455,0.2486,3560,56,91.5,Alta
+3525300,Jaú,Demais municípios de SP,12102,0.323,0.2899,3509,57,91.3,Alta
+3556503,Várzea Paulista,Demais municípios de SP,12055,0.2645,0.2859,3447,58,91.2,Alta
+3510500,Caraguatatuba,Demais municípios de SP,12969,0.2359,0.2603,3376,59,91.0,Alta
+3551702,Sertãozinho,Demais municípios de SP,11986,0.2646,0.2781,3334,60,90.9,Alta
+3547304,Santana de Parnaíba,Demais municípios de SP,14943,0.1666,0.221,3302,61,90.7,Alta
+3525003,Jandira,Demais municípios de SP,13175,0.2146,0.2487,3277,62,90.5,Alta
+3522109,Itanhaém,Demais municípios de SP,10601,0.315,0.3089,3274,63,90.4,Alta
+3557006,Votorantim,Demais municípios de SP,13430,0.1961,0.2384,3201,64,90.2,Alta
+3545209,Salto,Demais municípios de SP,12894,0.2436,0.2398,3091,65,90.1,Alta
+3526704,Leme,Demais municípios de SP,9669,0.3348,0.316,3055,66,89.9,Média
+3505500,Barretos,Demais municípios de SP,11357,0.3038,0.2572,2921,67,89.8,Média
+3503307,Araras,Demais municípios de SP,11988,0.2318,0.2436,2920,68,89.6,Média
+3522406,Itapeva,Demais municípios de SP,9374,0.2763,0.3098,2904,69,89.5,Média
+3539806,Poá,Demais municípios de SP,10950,0.1921,0.2508,2746,70,89.3,Média
+3506508,Birigui,Demais municípios de SP,10481,0.1821,0.2607,2732,71,89.1,Média
+3523404,Itatiba,Demais municípios de SP,11076,0.2533,0.2461,2726,72,89.0,Média
+3543303,Ribeirão Pires,ABC paulista,11035,0.17,0.2421,2672,73,88.8,Média
+3504503,Avaré,Demais municípios de SP,9131,0.2992,0.2913,2660,74,88.7,Média
+3518404,Guaratinguetá,Demais municípios de SP,10363,0.2366,0.2553,2646,75,88.5,Média
+3509007,Caieiras,Demais municípios de SP,9223,0.3077,0.2829,2609,76,88.4,Média
+3556206,Valinhos,Demais municípios de SP,10919,0.2173,0.2356,2573,77,88.2,Média
+3555406,Ubatuba,Demais municípios de SP,9114,0.3106,0.2791,2544,78,88.1,Média
+3548807,São Caetano do Sul,ABC paulista,12353,0.142,0.201,2482,79,87.9,Média
+3536505,Paulínia,Demais municípios de SP,10153,0.2357,0.2435,2472,80,87.8,Média
+3519709,Ibiúna,Demais municípios de SP,7533,0.3313,0.3254,2451,81,87.6,Média
+3509205,Cajamar,Demais municípios de SP,9909,0.1822,0.2458,2436,82,87.4,Média
+3506359,Bertioga,Demais municípios de SP,6949,0.368,0.3472,2413,83,87.3,Média
+3534708,Ourinhos,Demais municípios de SP,9713,0.2228,0.2468,2397,84,87.1,Média
+3550704,São Sebastião,Demais municípios de SP,8463,0.2877,0.2801,2370,85,87.0,Média
+3508504,Caçapava,Demais municípios de SP,8924,0.2465,0.2545,2272,86,86.8,Média
+3504008,Assis,Demais municípios de SP,9293,0.242,0.2443,2270,87,86.7,Média
+3557105,Votuporanga,Demais municípios de SP,8720,0.2476,0.2593,2261,88,86.5,Média
+3528502,Mairiporã,Demais municípios de SP,8865,0.22,0.2517,2231,89,86.4,Média
+3549102,São João da Boa Vista,Demais municípios de SP,8191,0.214,0.2641,2163,90,86.2,Média
+3503901,Arujá,Demais municípios de SP,9259,0.203,0.2324,2152,91,86.0,Média
+3530805,Mogi Mirim,Demais municípios de SP,8184,0.2611,0.2582,2113,92,85.9,Média
+3511102,Catanduva,Demais municípios de SP,9656,0.2085,0.2185,2110,93,85.7,Média
+3527207,Lorena,Demais municípios de SP,8301,0.2742,0.2508,2082,94,85.6,Média
+3519600,Ibitinga,Demais municípios de SP,5752,0.3653,0.3557,2046,95,85.4,Média
+3509601,Campo Limpo Paulista,Demais municípios de SP,7750,0.2326,0.2631,2039,96,85.3,Média
+3531803,Monte Mor,Demais municípios de SP,6663,0.273,0.3,1999,97,85.1,Média
+3503802,Artur Nogueira,Demais municípios de SP,5606,0.3164,0.3411,1912,98,85.0,Média
+3524006,Itupeva,Demais municípios de SP,7305,0.2713,0.2599,1899,99,84.8,Média
+3510401,Capivari,Demais municípios de SP,4827,0.4715,0.3923,1893,100,84.7,Média
+3550605,São Roque,Demais municípios de SP,7293,0.2726,0.2554,1863,101,84.5,Média
+3526803,Lençóis Paulista,Demais municípios de SP,6569,0.2835,0.281,1846,102,84.3,Média
+3509700,Campos do Jordão,Demais municípios de SP,5224,0.3342,0.3515,1836,103,84.2,Média
+3522604,Itapira,Demais municípios de SP,6755,0.3227,0.2704,1826,104,84.0,Média
+3531100,Mongaguá,Demais municípios de SP,5355,0.3472,0.3378,1809,105,83.9,Média
+3537602,Peruíbe,Demais municípios de SP,6219,0.3681,0.2894,1800,106,83.7,Média
+3529302,Matão,Demais municípios de SP,7442,0.2052,0.2387,1776,107,83.6,Média
+3501905,Amparo,Demais municípios de SP,6722,0.2763,0.2621,1762,108,83.4,Média
+3506102,Bebedouro,Demais municípios de SP,6741,0.302,0.2603,1755,109,83.3,Média
+3527108,Lins,Demais municípios de SP,6759,0.3014,0.2534,1713,110,83.1,Média
+3515103,Embu-Guaçu,Demais municípios de SP,7160,0.1885,0.2377,1702,111,82.9,Média
+3554805,Tremembé,Demais municípios de SP,5559,0.3891,0.3003,1669,112,82.8,Média
+3505906,Batatais,Demais municípios de SP,5685,0.2779,0.2933,1668,113,82.6,Média
+3513405,Cruzeiro,Demais municípios de SP,6963,0.2095,0.2383,1660,114,82.5,Média
+3512803,Cosmópolis,Demais municípios de SP,5998,0.2446,0.2763,1657,115,82.3,Média
+3524303,Jaboticabal,Demais municípios de SP,6726,0.2101,0.2446,1645,116,82.2,Média
+3537800,Piedade,Demais municípios de SP,5010,0.3192,0.3268,1637,117,82.0,Média
+3556404,Vargem Grande do Sul,Demais municípios de SP,3898,0.4502,0.4173,1627,118,81.9,Média
+3525102,Jardinópolis,Demais municípios de SP,4601,0.4388,0.3524,1622,119,81.7,Média
+3515509,Fernandópolis,Demais municípios de SP,6556,0.2408,0.2468,1618,120,81.6,Média
+3540705,Porto Ferreira,Demais municípios de SP,4947,0.4085,0.3243,1604,121,81.4,Média
+3556701,Vinhedo,Demais municípios de SP,7009,0.2327,0.2286,1602,122,81.2,Média
+3542602,Registro,Demais municípios de SP,5641,0.3062,0.2833,1598,123,81.1,Média
+3551504,Serrana,Demais municípios de SP,4945,0.361,0.3224,1594,124,80.9,Média
+3523206,Itararé,Demais municípios de SP,4284,0.321,0.3707,1588,125,80.8,Média
+3510203,Capão Bonito,Demais municípios de SP,5008,0.2973,0.3163,1584,126,80.6,Média
+3539301,Pirassununga,Demais municípios de SP,6404,0.2425,0.241,1543,127,80.5,Média
+3507001,Boituva,Demais municípios de SP,5692,0.2795,0.2706,1540,128,80.3,Média
+3530508,Mococa,Demais municípios de SP,5932,0.2006,0.2508,1488,129,80.2,Média
+3540606,Porto Feliz,Demais municípios de SP,5551,0.2133,0.266,1477,130,80.0,Média
+3524709,Jaguariúna,Demais municípios de SP,5707,0.2565,0.2482,1417,131,79.8,Média
+3508405,Cabreúva,Demais municípios de SP,5262,0.217,0.2678,1409,132,79.7,Média
+3537305,Penápolis,Demais municípios de SP,5289,0.2933,0.2618,1384,133,79.5,Média
+3540200,Pontal,Demais municípios de SP,4206,0.3219,0.3289,1383,134,79.4,Média
+3536703,Pederneiras,Demais municípios de SP,4524,0.2929,0.3054,1382,135,79.2,Média
+3527306,Louveira,Demais municípios de SP,5701,0.2173,0.2393,1364,136,79.1,Média
+3502101,Andradina,Demais municípios de SP,5259,0.2615,0.2552,1342,137,78.9,Média
+3546405,Santa Cruz do Rio Pardo,Demais municípios de SP,4442,0.2555,0.3002,1334,138,78.8,Média
+3556453,Vargem Grande Paulista,Demais municípios de SP,5035,0.2453,0.2631,1325,139,78.6,Média
+3533908,Olímpia,Demais municípios de SP,5019,0.2813,0.2615,1313,140,78.4,Média
+3533403,Nova Odessa,Demais municípios de SP,5541,0.1747,0.2326,1289,141,78.3,Média
+3549706,São José do Rio Pardo,Demais municípios de SP,4765,0.2825,0.2696,1285,142,78.1,Média
+3528403,Mairinque,Demais municípios de SP,4951,0.2531,0.2567,1271,143,78.0,Média
+3530300,Mirassol,Demais municípios de SP,5384,0.2587,0.2346,1263,144,77.8,Média
+3545308,Salto de Pirapora,Demais municípios de SP,4384,0.1813,0.2836,1243,145,77.7,Média
+3555000,Tupã,Demais municípios de SP,5176,0.2274,0.2392,1238,146,77.5,Média
+3553708,Taquaritinga,Demais municípios de SP,4671,0.2338,0.2617,1223,147,77.4,Média
+3544103,Rio Grande da Serra,ABC paulista,4776,0.2186,0.2554,1220,148,77.2,Média
+3521002,Iperó,Demais municípios de SP,3681,0.3217,0.3309,1218,149,77.1,Média
+3549409,São Joaquim da Barra,Demais municípios de SP,4635,0.2798,0.2624,1216,150,76.9,Média
+3539509,Pitangueiras,Demais municípios de SP,3666,0.3052,0.3316,1216,151,76.7,Média
+3537107,Pedreira,Demais municípios de SP,4290,0.266,0.2805,1203,152,76.6,Média
+3518602,Guariba,Demais municípios de SP,3776,0.2783,0.3181,1201,153,76.4,Média
+3505609,Barrinha,Demais municípios de SP,3545,0.3185,0.3327,1179,154,76.3,Média
+3500303,Aguaí,Demais municípios de SP,3173,0.4018,0.3711,1178,155,76.1,Média
+3525201,Jarinu,Demais municípios de SP,3623,0.2782,0.3244,1175,156,76.0,Média
+3546801,Santa Isabel,Demais municípios de SP,5334,0.1747,0.219,1168,157,75.8,Média
+3517406,Guaíra,Demais municípios de SP,3757,0.3106,0.3107,1167,158,75.7,Média
+3525706,José Bonifácio,Demais municípios de SP,3615,0.3115,0.3203,1158,159,75.5,Média
+3550209,São Miguel Arcanjo,Demais municípios de SP,3138,0.3942,0.3662,1149,160,75.3,Média
+3531902,Morro Agudo,Demais municípios de SP,3051,0.391,0.367,1120,161,75.2,Média
+3501707,Américo Brasiliense,Demais municípios de SP,3434,0.2635,0.3156,1084,162,75.0,Média
+3512209,Conchal,Demais municípios de SP,3051,0.2943,0.3515,1072,163,74.9,Média
+3515186,Espírito Santo do Pinhal,Demais municípios de SP,3597,0.285,0.2963,1066,164,74.7,Média
+3511508,Cerquilho,Demais municípios de SP,4156,0.2252,0.2542,1056,165,74.6,Média
+3510302,Capela do Alto,Demais municípios de SP,2480,0.4718,0.4256,1056,166,74.4,Média
+3509254,Cajati,Demais municípios de SP,2928,0.3098,0.3514,1029,167,74.3,Média
+3508009,Buri,Demais municípios de SP,2311,0.4206,0.4437,1025,168,74.1,Média
+3502754,Araçariguama,Demais municípios de SP,2406,0.4896,0.4238,1020,169,74.0,Média
+3506607,Biritiba Mirim,Demais municípios de SP,3276,0.2711,0.3109,1018,170,73.8,Média
+3520400,Ilhabela,Demais municípios de SP,3514,0.2925,0.2894,1017,171,73.6,Média
+3513108,Cravinhos,Demais municípios de SP,3351,0.308,0.3029,1015,172,73.5,Média
+3519303,Ibaté,Demais municípios de SP,3474,0.2588,0.2868,996,173,73.3,Média
+3534302,Orlândia,Demais municípios de SP,3572,0.3275,0.2789,996,174,73.2,Média
+3541604,Promissão,Demais municípios de SP,3259,0.3013,0.2979,971,175,73.0,Média
+3531308,Monte Alto,Demais municípios de SP,4055,0.2395,0.2394,971,176,72.9,Média
+3524105,Ituverava,Demais municípios de SP,3464,0.3129,0.2766,958,177,72.7,Média
+3548005,Santo Antônio de Posse,Demais municípios de SP,2531,0.3943,0.3736,946,178,72.6,Média
+3516705,Garça,Demais municípios de SP,3908,0.2039,0.238,930,179,72.4,Média
+3550407,São Pedro,Demais municípios de SP,3627,0.2553,0.2547,924,180,72.2,Média
+3546306,Santa Cruz das Palmeiras,Demais municípios de SP,2846,0.3145,0.321,914,181,72.1,Média
+3535507,Paraguaçu Paulista,Demais municípios de SP,3828,0.215,0.2383,912,182,71.9,Média
+3514403,Dracena,Demais municípios de SP,3851,0.2656,0.2367,912,183,71.8,Média
+3537909,Pilar do Sul,Demais municípios de SP,2708,0.3231,0.3365,911,184,71.6,Média
+3540754,Potim,Demais municípios de SP,2460,0.5268,0.3689,908,185,71.5,Média
+3522703,Itápolis,Demais municípios de SP,3453,0.2688,0.2621,905,186,71.3,Média
+3541307,Presidente Epitácio,Demais municípios de SP,3500,0.2363,0.2579,903,187,71.2,Média
+3552106,Socorro,Demais municípios de SP,3178,0.2574,0.2817,895,188,71.0,Média
+3544004,Rio das Pedras,Demais municípios de SP,3113,0.2836,0.2868,893,189,70.9,Média
+3550100,São Manuel,Demais municípios de SP,3498,0.2204,0.2553,893,190,70.7,Média
+3524808,Jales,Demais municípios de SP,4106,0.2253,0.2161,887,191,70.5,Média
+3523503,Itatinga,Demais municípios de SP,2279,0.4405,0.3889,886,192,70.4,Média
+3533502,Novo Horizonte,Demais municípios de SP,3389,0.2538,0.2597,880,193,70.2,Média
+3543006,Ribeirão Branco,Demais municípios de SP,2085,0.4082,0.4184,872,194,70.1,Média
+3554508,Tietê,Demais municípios de SP,3473,0.2614,0.2506,870,195,69.9,Média
+3500709,Agudos,Demais municípios de SP,3424,0.2725,0.2464,844,196,69.8,Média
+3526407,Laranjal Paulista,Demais municípios de SP,2598,0.343,0.3229,839,197,69.6,Média
+3553807,Taquarituba,Demais municípios de SP,2459,0.3176,0.3389,833,198,69.5,Média
+3515152,Engenheiro Coelho,Demais municípios de SP,2627,0.2916,0.314,825,199,69.3,Média
+3505203,Bariri,Demais municípios de SP,2974,0.2492,0.2734,813,200,69.1,Média
+3502507,Aparecida,Demais municípios de SP,3160,0.2848,0.2571,812,201,69.0,Média
+3520103,Igarapava,Demais municípios de SP,2433,0.3539,0.3329,810,202,68.8,Média
+3521804,Itaí,Demais municípios de SP,2393,0.3723,0.3385,810,203,68.7,Média
+3526209,Juquitiba,Demais municípios de SP,2879,0.2431,0.2809,809,204,68.5,Média
+3502903,Araçoiaba da Serra,Demais municípios de SP,3064,0.2683,0.2598,796,205,68.4,Média
+3546702,Santa Gertrudes,Demais municípios de SP,2775,0.2811,0.2842,789,206,68.2,Média
+3517505,Guapiaçu,Demais municípios de SP,2245,0.3871,0.3512,788,207,68.1,Média
+3507902,Brotas,Demais municípios de SP,2131,0.4219,0.3637,775,208,67.9,Média
+3546603,Santa Fé do Sul,Demais municípios de SP,3234,0.2121,0.2395,774,209,67.8,Média
+3534609,Osvaldo Cruz,Demais municípios de SP,2956,0.3143,0.2573,761,210,67.6,Média
+3508603,Cachoeira Paulista,Demais municípios de SP,3012,0.241,0.2517,758,211,67.4,Média
+3507803,Brodowski,Demais municípios de SP,2466,0.309,0.307,757,212,67.3,Média
+3502705,Apiaí,Demais municípios de SP,2329,0.2237,0.325,757,213,67.1,Média
+3512407,Cordeirópolis,Demais municípios de SP,2371,0.3269,0.3124,741,214,67.0,Média
+3501301,Álvares Machado,Demais municípios de SP,2527,0.3391,0.2922,738,215,66.8,Média
+3502200,Angatuba,Demais municípios de SP,2387,0.2811,0.3091,738,216,66.7,Média
+3538808,Piraju,Demais municípios de SP,2581,0.2154,0.284,733,217,66.5,Baixa
+3520301,Iguape,Demais municípios de SP,2584,0.2759,0.2819,728,218,66.4,Baixa
+3518305,Guararema,Demais municípios de SP,3150,0.1867,0.2287,720,219,66.2,Baixa
+3513603,Cunha,Demais municípios de SP,2071,0.3515,0.3476,720,220,66.0,Baixa
+3513702,Descalvado,Demais municípios de SP,2773,0.2708,0.2576,714,221,65.9,Baixa
+3511409,Cerqueira César,Demais municípios de SP,2097,0.3658,0.3385,710,222,65.7,Baixa
+3509403,Cajuru,Demais municípios de SP,2327,0.2948,0.3033,706,223,65.6,Baixa
+3533007,Nova Granada,Demais municípios de SP,2207,0.3213,0.3196,705,224,65.4,Baixa
+3510005,Cândido Mota,Demais municípios de SP,2621,0.256,0.2687,704,225,65.3,Baixa
+3544202,Riolândia,Demais municípios de SP,1264,0.5854,0.5378,680,226,65.1,Baixa
+3535804,Paranapanema,Demais municípios de SP,2010,0.303,0.3381,679,227,65.0,Baixa
+3514106,Dois Córregos,Demais municípios de SP,2322,0.2377,0.2926,679,228,64.8,Baixa
+3542206,Rancharia,Demais municípios de SP,2639,0.1667,0.2544,671,229,64.7,Baixa
+3520004,Igaraçu do Tietê,Demais municípios de SP,2095,0.284,0.3173,665,230,64.5,Baixa
+3539103,Pirapora do Bom Jesus,Demais municípios de SP,2084,0.2702,0.3184,664,231,64.3,Baixa
+3551405,Serra Azul,Demais municípios de SP,1472,0.4871,0.4506,663,232,64.2,Baixa
+3507100,Bom Jesus dos Perdões,Demais municípios de SP,2148,0.284,0.3083,662,233,64.0,Baixa
+3529708,Miguelópolis,Demais municípios de SP,1973,0.3082,0.3321,655,234,63.9,Baixa
+3551603,Serra Negra,Demais municípios de SP,2625,0.2168,0.2486,653,235,63.7,Baixa
+3523602,Itirapina,Demais municípios de SP,1670,0.4617,0.3896,651,236,63.6,Baixa
+3514908,Elias Fausto,Demais municípios de SP,1847,0.2761,0.3454,638,237,63.4,Baixa
+3518206,Guararapes,Demais municípios de SP,2647,0.1878,0.2382,630,238,63.3,Baixa
+3511607,Cesário Lange,Demais municípios de SP,1913,0.3832,0.3295,630,239,63.1,Baixa
+3539202,Pirapozinho,Demais municípios de SP,2542,0.1684,0.2473,629,240,62.9,Baixa
+3529203,Martinópolis,Demais municípios de SP,2387,0.2715,0.263,628,241,62.8,Baixa
+3538600,Piracaia,Demais municípios de SP,2306,0.3348,0.2712,625,242,62.6,Baixa
+3542503,Reginópolis,Demais municípios de SP,1239,0.6683,0.4981,617,243,62.5,Baixa
+3500105,Adamantina,Demais municípios de SP,3031,0.1422,0.2036,617,244,62.3,Baixa
+3556305,Valparaíso,Demais municípios de SP,2047,0.3229,0.301,616,245,62.2,Baixa
+3529906,Miracatu,Demais municípios de SP,1826,0.3089,0.3371,615,246,62.0,Baixa
+3554300,Teodoro Sampaio,Demais municípios de SP,2059,0.2229,0.2987,615,247,61.9,Baixa
+3521408,Iracemápolis,Demais municípios de SP,2223,0.2681,0.2719,604,248,61.7,Baixa
+3505807,Bastos,Demais municípios de SP,2024,0.2727,0.294,595,249,61.6,Baixa
+3523305,Itariri,Demais municípios de SP,1579,0.3483,0.3763,594,250,61.4,Baixa
+3504602,Bady Bassitt,Demais municípios de SP,2482,0.2546,0.2382,591,251,61.2,Baixa
+3510807,Casa Branca,Demais municípios de SP,2385,0.3371,0.2444,583,252,61.1,Baixa
+3541505,Presidente Venceslau,Demais municípios de SP,2811,0.1651,0.2064,580,253,60.9,Baixa
+3518503,Guareí,Demais municípios de SP,1537,0.3988,0.3752,577,254,60.8,Baixa
+3521903,Itajobi,Demais municípios de SP,1657,0.3712,0.3463,574,255,60.6,Baixa
+3553401,Tanabi,Demais municípios de SP,2105,0.3211,0.2721,573,256,60.5,Baixa
+3505302,Barra Bonita,Demais municípios de SP,2776,0.2464,0.2049,569,257,60.3,Baixa
+3553302,Tambaú,Demais municípios de SP,1940,0.3402,0.2931,569,258,60.2,Baixa
+3520442,Ilha Solteira,Demais municípios de SP,2369,0.2225,0.2391,566,259,60.0,Baixa
+3534906,Pacaembu,Demais municípios de SP,1411,0.5571,0.4007,565,260,59.8,Baixa
+3517703,Guará,Demais municípios de SP,2048,0.2275,0.2749,563,261,59.7,Baixa
+3547601,Santa Rosa de Viterbo,Demais municípios de SP,2127,0.2351,0.2541,540,262,59.5,Baixa
+3512308,Conchas,Demais municípios de SP,1403,0.4177,0.385,540,263,59.4,Baixa
+3538907,Pirajuí,Demais municípios de SP,2091,0.2874,0.2574,538,264,59.2,Baixa
+3556800,Viradouro,Demais municípios de SP,1634,0.3482,0.3287,537,265,59.1,Baixa
+3553005,Taguaí,Demais municípios de SP,1401,0.3426,0.3831,537,266,58.9,Baixa
+3524600,Jacupiranga,Demais municípios de SP,1561,0.3921,0.3412,533,267,58.8,Baixa
+3537404,Pereira Barreto,Demais municípios de SP,1964,0.308,0.271,532,268,58.6,Baixa
+3521705,Itaberá,Demais municípios de SP,1739,0.2398,0.3037,528,269,58.4,Baixa
+3512001,Colina,Demais municípios de SP,1838,0.278,0.284,522,270,58.3,Baixa
+3540903,Pradópolis,Demais municípios de SP,1703,0.3412,0.3063,522,271,58.1,Baixa
+3551900,Severínia,Demais municípios de SP,1575,0.3073,0.3305,521,272,58.0,Baixa
+3535408,Panorama,Demais municípios de SP,1495,0.2836,0.3461,517,273,57.8,Baixa
+3532405,Nazaré Paulista,Demais municípios de SP,1808,0.2306,0.2821,510,274,57.7,Baixa
+3530102,Mirandópolis,Demais municípios de SP,2050,0.2883,0.2485,510,275,57.5,Baixa
+3547502,Santa Rita do Passa Quatro,Demais municípios de SP,1947,0.3184,0.2606,507,276,57.4,Baixa
+3511003,Castilho,Demais municípios de SP,1757,0.3119,0.2883,507,277,57.2,Baixa
+3537008,Pedregulho,Demais municípios de SP,1571,0.3011,0.3217,505,278,57.1,Baixa
+3501152,Alumínio,Demais municípios de SP,1846,0.312,0.2728,504,279,56.9,Baixa
+3535309,Palmital,Demais municípios de SP,1772,0.2393,0.2823,500,280,56.7,Baixa
+3517604,Guapiara,Demais municípios de SP,1616,0.2191,0.308,498,281,56.6,Baixa
+3526506,Lavínia,Demais municípios de SP,1029,0.6181,0.4792,493,282,56.4,Baixa
+3515400,Fartura,Demais municípios de SP,1502,0.269,0.3273,492,283,56.3,Baixa
+3511706,Charqueada,Demais municípios de SP,1457,0.3246,0.3373,491,284,56.1,Baixa
+3531407,Monte Aprazível,Demais municípios de SP,1933,0.2064,0.2534,490,285,56.0,Baixa
+3521309,Ipuã,Demais municípios de SP,1599,0.3027,0.305,488,286,55.8,Baixa
+3545001,Salesópolis,Demais municípios de SP,1488,0.3286,0.3273,487,287,55.7,Baixa
+3504404,Avanhandava,Demais municípios de SP,1385,0.3256,0.3488,483,288,55.5,Baixa
+3508702,Caconde,Demais municípios de SP,1756,0.2284,0.2721,478,289,55.3,Baixa
+3522901,Itapuí,Demais municípios de SP,1369,0.3477,0.3481,477,290,55.2,Baixa
+3535606,Paraibuna,Demais municípios de SP,1598,0.3292,0.2935,469,291,55.0,Baixa
+3536307,Patrocínio Paulista,Demais municípios de SP,1522,0.3443,0.305,464,292,54.9,Baixa
+3526100,Juquiá,Demais municípios de SP,1666,0.2485,0.2783,464,293,54.7,Baixa
+3540804,Potirendaba,Demais municípios de SP,1656,0.3219,0.2798,463,294,54.6,Baixa
+3536208,Pariquera-Açu,Demais municípios de SP,1816,0.201,0.2523,458,295,54.4,Baixa
+3542404,Regente Feijó,Demais municípios de SP,1832,0.2205,0.2447,448,296,54.3,Baixa
+3540002,Pompéia,Demais municípios de SP,1881,0.21,0.2374,447,297,54.1,Baixa
+3553955,Tarumã,Demais municípios de SP,1497,0.2685,0.2973,445,298,54.0,Baixa
+3556107,Valentim Gentil,Demais municípios de SP,1281,0.3443,0.3464,444,299,53.8,Baixa
+3528007,Macatuba,Demais municípios de SP,1638,0.2216,0.2697,442,300,53.6,Baixa
+3552700,Tabatinga,Demais municípios de SP,1357,0.2609,0.3214,436,301,53.5,Baixa
+3538204,Pinhalzinho,Demais municípios de SP,1382,0.3191,0.3133,433,302,53.3,Baixa
+3506706,Boa Esperança do Sul,Demais municípios de SP,1285,0.3113,0.3349,430,303,53.2,Baixa
+3501004,Altinópolis,Demais municípios de SP,1605,0.2455,0.2661,427,304,53.0,Baixa
+3507407,Borborema,Demais municípios de SP,1342,0.2548,0.3155,423,305,52.9,Baixa
+3551801,Sete Barras,Demais municípios de SP,1198,0.3973,0.3532,423,306,52.7,Baixa
+3514809,Eldorado,Demais municípios de SP,1278,0.3365,0.3298,421,307,52.6,Baixa
+3532009,Morungaba,Demais municípios de SP,1395,0.3978,0.2992,417,308,52.4,Baixa
+3520905,Ipaussu,Demais municípios de SP,1363,0.2737,0.3049,416,309,52.2,Baixa
+3508801,Cafelândia,Demais municípios de SP,1434,0.3494,0.2895,415,310,52.1,Baixa
+3519055,Holambra,Demais municípios de SP,1481,0.3059,0.2796,414,311,51.9,Baixa
+3516002,Flórida Paulista,Demais municípios de SP,1287,0.3131,0.3169,408,312,51.8,Baixa
+3531506,Monte Azul Paulista,Demais municípios de SP,1527,0.2587,0.2662,406,313,51.6,Baixa
+3526001,Junqueirópolis,Demais municípios de SP,1656,0.2373,0.2446,405,314,51.5,Baixa
+3500501,Águas de Lindóia,Demais municípios de SP,1464,0.2725,0.2713,397,315,51.3,Baixa
+3532827,Nova Campina,Demais municípios de SP,996,0.3745,0.3977,396,316,51.2,Baixa
+3522802,Itaporanga,Demais municípios de SP,1241,0.1966,0.3188,396,317,51.0,Baixa
+3549953,São Lourenço da Serra,Demais municípios de SP,1655,0.2127,0.2378,393,318,50.9,Baixa
+3527405,Lucélia,Demais municípios de SP,1692,0.2583,0.2305,390,319,50.7,Baixa
+3527603,Luís Antônio,Demais municípios de SP,1290,0.238,0.2948,380,320,50.5,Baixa
+3544251,Rosana,Demais municípios de SP,1601,0.1868,0.2345,375,321,50.4,Baixa
+3503604,Areiópolis,Demais municípios de SP,1109,0.3318,0.3338,370,322,50.2,Baixa
+3556354,Vargem,Demais municípios de SP,1034,0.3965,0.3572,369,323,50.1,Baixa
+3517208,Guaiçara,Demais municípios de SP,1058,0.3667,0.3457,366,324,49.9,Baixa
+3506300,Bernardino de Campos,Demais municípios de SP,1072,0.3601,0.3373,362,325,49.8,Baixa
+3509908,Cananéia,Demais municípios de SP,1179,0.2816,0.3039,358,326,49.6,Baixa
+3535101,Palmares Paulista,Demais municípios de SP,994,0.3139,0.3586,356,327,49.5,Baixa
+3519006,Herculândia,Demais municípios de SP,945,0.291,0.3772,356,328,49.3,Baixa
+3557204,Chavantes,Demais municípios de SP,1178,0.3073,0.302,356,329,49.1,Baixa
+3545605,Santa Adélia,Demais municípios de SP,1325,0.1955,0.2678,355,330,49.0,Baixa
+3525508,Joanópolis,Demais municípios de SP,1099,0.4022,0.3132,344,331,48.8,Baixa
+3530201,Mirante do Paranapanema,Demais municípios de SP,1311,0.1754,0.2584,339,332,48.7,Baixa
+3520202,Igaratá,Demais municípios de SP,1030,0.3515,0.3231,333,333,48.5,Baixa
+3529807,Mineiros do Tietê,Demais municípios de SP,1038,0.2697,0.3198,332,334,48.4,Baixa
+3506805,Bocaina,Demais municípios de SP,1032,0.3624,0.3172,327,335,48.2,Baixa
+3541208,Presidente Bernardes,Demais municípios de SP,1227,0.2975,0.2664,327,336,48.1,Baixa
+3546009,Santa Branca,Demais municípios de SP,1203,0.3059,0.2697,324,337,47.9,Baixa
+3508108,Buritama,Demais municípios de SP,1456,0.1374,0.2201,320,338,47.8,Baixa
+3548609,São Bento do Sapucaí,Demais municípios de SP,1045,0.2737,0.3047,318,339,47.6,Baixa
+3538105,Pindorama,Demais municípios de SP,1271,0.2699,0.2502,318,340,47.4,Baixa
+3556909,Vista Alegre do Alto,Demais municípios de SP,873,0.3184,0.3629,317,341,47.3,Baixa
+3506904,Bofete,Demais municípios de SP,968,0.3471,0.3266,316,342,47.1,Baixa
+3547700,Santo Anastácio,Demais municípios de SP,1589,0.1542,0.1989,316,343,47.0,Baixa
+3541703,Quatá,Demais municípios de SP,1222,0.2349,0.2549,311,344,46.8,Baixa
+3539400,Piratininga,Demais municípios de SP,1327,0.2057,0.2339,310,345,46.7,Baixa
+3509106,Caiuá,Demais municípios de SP,701,0.5021,0.4417,310,346,46.5,Baixa
+3550803,São Sebastião da Grama,Demais municípios de SP,955,0.3539,0.3202,306,347,46.4,Baixa
+3513900,Divinolândia,Demais municípios de SP,965,0.314,0.3163,305,348,46.2,Baixa
+3512902,Cosmorama,Demais municípios de SP,865,0.3711,0.3523,305,349,46.0,Baixa
+3511300,Cedral,Demais municípios de SP,1112,0.3309,0.2728,303,350,45.9,Baixa
+3557303,Estiva Gerbi,Demais municípios de SP,1056,0.2794,0.2832,299,351,45.7,Baixa
+3550902,São Simão,Demais municípios de SP,1196,0.2634,0.2496,299,352,45.6,Baixa
+3528809,Maracaí,Demais municípios de SP,1155,0.2173,0.2578,298,353,45.4,Baixa
+3537206,Pedro de Toledo,Demais municípios de SP,922,0.321,0.3225,297,354,45.3,Baixa
+3515202,Estrela d'Oeste,Demais municípios de SP,980,0.299,0.3018,296,355,45.1,Baixa
+3519808,Icém,Demais municípios de SP,860,0.4698,0.3438,296,356,45.0,Baixa
+3553856,Taquarivaí,Demais municípios de SP,798,0.2506,0.3705,296,357,44.8,Baixa
+3551108,Sarapuí,Demais municípios de SP,1059,0.2635,0.279,295,358,44.7,Baixa
+3553500,Tapiraí,Demais municípios de SP,862,0.2923,0.3398,293,359,44.5,Baixa
+3553609,Tapiratiba,Demais municípios de SP,1090,0.311,0.267,291,360,44.3,Baixa
+3542909,Ribeirão Bonito,Demais municípios de SP,1048,0.2948,0.2776,291,361,44.2,Baixa
+3549508,São José da Bela Vista,Demais municípios de SP,871,0.2193,0.3338,291,362,44.0,Baixa
+3504909,Bananal,Demais municípios de SP,972,0.2881,0.2983,290,363,43.9,Baixa
+3524501,Jaci,Demais municípios de SP,807,0.3755,0.3587,289,364,43.7,Baixa
+3514601,Dumont,Demais municípios de SP,1050,0.1981,0.2726,286,365,43.6,Baixa
+3536109,Pardinho,Demais municípios de SP,780,0.3321,0.3584,280,366,43.4,Baixa
+3528700,Marabá Paulista,Demais municípios de SP,594,0.6212,0.4704,279,367,43.3,Baixa
+3510708,Cardoso,Demais municípios de SP,917,0.2792,0.2995,275,368,43.1,Baixa
+3545159,Saltinho,Demais municípios de SP,755,0.3285,0.3619,273,369,42.9,Baixa
+3541901,Queluz,Demais municípios de SP,914,0.2779,0.2979,272,370,42.8,Baixa
+3542107,Rafard,Demais municípios de SP,803,0.4296,0.3382,272,371,42.6,Baixa
+3544905,Sales Oliveira,Demais municípios de SP,988,0.2682,0.2741,271,372,42.5,Baixa
+3517901,Guaraci,Demais municípios de SP,963,0.2368,0.2811,271,373,42.3,Baixa
+3520426,Ilha Comprida,Demais municípios de SP,982,0.2749,0.2749,270,374,42.2,Baixa
+3513207,Cristais Paulista,Demais municípios de SP,945,0.2857,0.2777,262,375,42.0,Baixa
+3504206,Auriflama,Demais municípios de SP,1111,0.1953,0.2357,262,376,41.9,Baixa
+3538501,Piquete,Demais municípios de SP,1087,0.2088,0.2403,261,377,41.7,Baixa
+3556008,Urupês,Demais municípios de SP,1134,0.1834,0.2304,261,378,41.6,Baixa
+3545407,Salto Grande,Demais municípios de SP,801,0.2759,0.3249,260,379,41.4,Baixa
+3528601,Manduri,Demais municípios de SP,953,0.2529,0.2727,260,380,41.2,Baixa
+3554706,Torrinha,Demais municípios de SP,693,0.3478,0.3687,255,381,41.1,Baixa
+3553203,Taiúva,Demais municípios de SP,760,0.5132,0.3356,255,382,40.9,Baixa
+3514502,Duartina,Demais municípios de SP,1023,0.2356,0.249,255,383,40.8,Baixa
+3555604,Uchoa,Demais municípios de SP,865,0.2913,0.2916,252,384,40.6,Baixa
+3523800,Itobi,Demais municípios de SP,823,0.3402,0.3045,251,385,40.5,Baixa
+3510153,Canitar,Demais municípios de SP,788,0.2208,0.3172,250,386,40.3,Baixa
+3550506,São Pedro do Turvo,Demais municípios de SP,723,0.2683,0.3456,250,387,40.2,Baixa
+3535002,Palestina,Demais municípios de SP,1013,0.2458,0.2452,248,388,40.0,Baixa
+3550001,São Luiz do Paraitinga,Demais municípios de SP,884,0.2477,0.2791,247,389,39.8,Baixa
+3514007,Dobrada,Demais municípios de SP,903,0.1838,0.2718,245,390,39.7,Baixa
+3539004,Pirangi,Demais municípios de SP,920,0.2185,0.264,243,391,39.5,Baixa
+3521507,Irapuã,Demais municípios de SP,679,0.2401,0.3571,242,392,39.4,Baixa
+3540507,Porangaba,Demais municípios de SP,843,0.3132,0.2871,242,393,39.2,Baixa
+3544301,Roseira,Demais municípios de SP,924,0.2381,0.2606,241,394,39.1,Baixa
+3536406,Paulicéia,Demais municípios de SP,720,0.2944,0.3308,238,395,38.9,Baixa
+3541059,Pratânia,Demais municípios de SP,618,0.3333,0.3846,238,396,38.8,Baixa
+3518107,Guarantã,Demais municípios de SP,665,0.3414,0.3508,233,397,38.6,Baixa
+3536604,Paulo de Faria,Demais municípios de SP,674,0.3442,0.3433,231,398,38.4,Baixa
+3517000,Getulina,Demais municípios de SP,959,0.1971,0.24,230,399,38.3,Baixa
+3543808,Rinópolis,Demais municípios de SP,804,0.2575,0.2836,228,400,38.1,Baixa
+3504800,Bálsamo,Demais municípios de SP,828,0.2621,0.2751,228,401,38.0,Baixa
+3519253,Iaras,Demais municípios de SP,602,0.3671,0.3775,227,402,37.8,Baixa
+3519105,Iacanga,Demais municípios de SP,872,0.2603,0.2603,227,403,37.7,Baixa
+3512100,Colômbia,Demais municípios de SP,581,0.3339,0.3896,226,404,37.5,Baixa
+3543501,Riversul,Demais municípios de SP,522,0.3487,0.4319,225,405,37.4,Baixa
+3542701,Restinga,Demais municípios de SP,701,0.291,0.3202,224,406,37.2,Baixa
+3519402,Ibirá,Demais municípios de SP,959,0.2544,0.2331,224,407,37.1,Baixa
+3521101,Ipeúna,Demais municípios de SP,726,0.2424,0.3064,222,408,36.9,Baixa
+3543709,Rincão,Demais municípios de SP,853,0.2157,0.2606,222,409,36.7,Baixa
+3501400,Álvaro de Carvalho,Demais municípios de SP,506,0.4368,0.4379,222,410,36.6,Baixa
+3509304,Cajobi,Demais municípios de SP,845,0.1976,0.2611,221,411,36.4,Baixa
+3505401,Barra do Turvo,Demais municípios de SP,621,0.2754,0.3551,221,412,36.3,Baixa
+3537503,Pereiras,Demais municípios de SP,779,0.2978,0.2824,220,413,36.1,Baixa
+3503109,Arandu,Demais municípios de SP,716,0.236,0.3042,218,414,36.0,Baixa
+3521606,Irapuru,Demais municípios de SP,651,0.4316,0.331,215,415,35.8,Baixa
+3516903,General Salgado,Demais municípios de SP,867,0.2768,0.2479,215,416,35.7,Baixa
+3552007,Silveiras,Demais municípios de SP,656,0.3247,0.327,214,417,35.5,Baixa
+3534757,Ouroeste,Demais municípios de SP,870,0.1954,0.2457,214,418,35.3,Baixa
+3556602,Vera Cruz,Demais municípios de SP,1001,0.1968,0.2117,212,419,35.2,Baixa
+3543253,Ribeirão Grande,Demais municípios de SP,679,0.2842,0.3094,210,420,35.0,Baixa
+3523701,Itirapuã,Demais municípios de SP,597,0.3132,0.3501,209,421,34.9,Baixa
+3505104,Barbosa,Demais municípios de SP,534,0.3483,0.3885,207,422,34.7,Baixa
+3543105,Ribeirão Corrente,Demais municípios de SP,500,0.254,0.4136,207,423,34.6,Baixa
+3548203,Santo Antônio do Pinhal,Demais municípios de SP,696,0.2716,0.2961,206,424,34.4,Baixa
+3540853,Pracinha,Demais municípios de SP,413,0.6441,0.4976,205,425,34.3,Baixa
+3532306,Natividade da Serra,Demais municípios de SP,561,0.328,0.3659,205,426,34.1,Baixa
+3532801,Nova Aliança,Demais municípios de SP,641,0.3229,0.3195,205,427,34.0,Baixa
+3511904,Clementina,Demais municípios de SP,662,0.3172,0.3078,204,428,33.8,Baixa
+3524204,Jaborandi,Demais municípios de SP,617,0.2723,0.3302,204,429,33.6,Baixa
+3554409,Terra Roxa,Demais municípios de SP,764,0.1872,0.2658,203,430,33.5,Baixa
+3552601,Tabapuã,Demais municípios de SP,899,0.1935,0.225,202,431,33.3,Baixa
+3548104,Santo Antônio do Jardim,Demais municípios de SP,574,0.277,0.3517,202,432,33.2,Baixa
+3532900,Nova Europa,Demais municípios de SP,738,0.2453,0.272,201,433,33.0,Baixa
+3555109,Tupi Paulista,Demais municípios de SP,1116,0.2124,0.1791,200,434,32.9,Baixa
+3536000,Parapuã,Demais municípios de SP,902,0.1796,0.2193,198,435,32.7,Baixa
+3545100,Salmourão,Demais municípios de SP,486,0.3951,0.4044,197,436,32.6,Baixa
+3555356,Ubarana,Demais municípios de SP,536,0.3433,0.3661,196,437,32.4,Baixa
+3502309,Anhembi,Demais municípios de SP,545,0.3174,0.3562,194,438,32.2,Baixa
+3534807,Ouro Verde,Demais municípios de SP,700,0.1986,0.2753,193,439,32.1,Baixa
+3500758,Alambari,Demais municípios de SP,628,0.2675,0.3064,192,440,31.9,Baixa
+3509452,Campina do Monte Alegre,Demais municípios de SP,602,0.304,0.3155,190,441,31.8,Baixa
+3553906,Tarabai,Demais municípios de SP,676,0.2219,0.2797,189,442,31.6,Baixa
+3509809,Campos Novos Paulista,Demais municípios de SP,518,0.3475,0.3645,189,443,31.5,Baixa
+3547908,Santo Antônio da Alegria,Demais municípios de SP,650,0.24,0.2887,188,444,31.3,Baixa
+3555802,Urânia,Demais municípios de SP,738,0.2669,0.2543,188,445,31.2,Baixa
+3517307,Guaimbê,Demais municípios de SP,521,0.3608,0.358,187,446,31.0,Baixa
+3515350,Euclides da Cunha Paulista,Demais municípios de SP,633,0.2417,0.2939,186,447,30.9,Baixa
+3533205,Nova Independência,Demais municípios de SP,524,0.3779,0.3534,185,448,30.7,Baixa
+3521150,Ipiguá,Demais municípios de SP,580,0.3569,0.3183,185,449,30.5,Baixa
+3542008,Quintana,Demais municípios de SP,692,0.2168,0.2659,184,450,30.4,Baixa
+3554201,Tejupá,Demais municípios de SP,418,0.2919,0.4368,183,451,30.2,Baixa
+3518859,Guatapará,Demais municípios de SP,701,0.2083,0.2604,183,452,30.1,Baixa
+3503406,Arealva,Demais municípios de SP,666,0.2508,0.2704,180,453,29.9,Baixa
+3519501,Ibirarema,Demais municípios de SP,625,0.2528,0.2852,178,454,29.8,Baixa
+3553104,Taiaçu,Demais municípios de SP,531,0.275,0.3349,178,455,29.6,Baixa
+3526605,Lavrinhas,Demais municípios de SP,637,0.2292,0.2748,175,456,29.5,Baixa
+3532702,Nipoã,Demais municípios de SP,425,0.3765,0.4115,175,457,29.3,Baixa
+3507308,Boracéia,Demais municípios de SP,497,0.3139,0.3512,175,458,29.1,Baixa
+3531209,Monte Alegre do Sul,Demais municípios de SP,697,0.2654,0.2466,172,459,29.0,Baixa
+3554904,Três Fronteiras,Demais municípios de SP,641,0.2278,0.2658,170,460,28.8,Baixa
+3533254,Novais,Demais municípios de SP,436,0.3807,0.3902,170,461,28.7,Baixa
+3515194,Espírito Santo do Turvo,Demais municípios de SP,450,0.2733,0.3717,167,462,28.5,Baixa
+3509957,Canas,Demais municípios de SP,538,0.2937,0.3061,165,463,28.4,Baixa
+3530409,Mirassolândia,Demais municípios de SP,448,0.4107,0.3652,164,464,28.2,Baixa
+3533601,Nuporanga,Demais municípios de SP,629,0.248,0.26,164,465,28.1,Baixa
+3552304,Sud Mennucci,Demais municípios de SP,633,0.2512,0.258,163,466,27.9,Baixa
+3514304,Dourado,Demais municípios de SP,720,0.1847,0.2267,163,467,27.8,Baixa
+3519204,Iacri,Demais municípios de SP,550,0.2364,0.2943,162,468,27.6,Baixa
+3546504,Santa Ernestina,Demais municípios de SP,587,0.1158,0.2753,162,469,27.4,Baixa
+3527009,Lindóia,Demais municípios de SP,623,0.2905,0.2588,161,470,27.3,Baixa
+3505351,Barra do Chapéu,Demais municípios de SP,522,0.2644,0.3069,160,471,27.1,Baixa
+3551207,Sarutaiá,Demais municípios de SP,400,0.43,0.4001,160,472,27.0,Baixa
+3547007,Santa Maria da Serra,Demais municípios de SP,504,0.256,0.3174,160,473,26.8,Baixa
+3554953,Tuiuti,Demais municípios de SP,535,0.3607,0.2984,160,474,26.7,Baixa
+3536802,Pedra Bela,Demais municípios de SP,503,0.2803,0.3148,158,475,26.5,Baixa
+3522653,Itapirapuã Paulista,Demais municípios de SP,509,0.2397,0.3109,158,476,26.4,Baixa
+3503703,Ariranha,Demais municípios de SP,669,0.1614,0.2364,158,477,26.2,Baixa
+3532207,Narandiba,Demais municípios de SP,586,0.1502,0.267,156,478,26.0,Baixa
+3555505,Ubirajara,Demais municípios de SP,492,0.2886,0.3179,156,479,25.9,Baixa
+3525805,Júlio Mesquita,Demais municípios de SP,465,0.2774,0.3349,156,480,25.7,Baixa
+3540259,Pontalinda,Demais municípios de SP,372,0.5296,0.4178,155,481,25.6,Baixa
+3544806,Sales,Demais municípios de SP,507,0.3393,0.3036,154,482,25.4,Baixa
+3504701,Balbinos,Demais municípios de SP,277,0.6462,0.5544,154,483,25.3,Baixa
+3528106,Macaubal,Demais municípios de SP,575,0.2678,0.2669,153,484,25.1,Baixa
+3546900,Santa Lúcia,Demais municípios de SP,597,0.196,0.2569,153,485,25.0,Baixa
+3527702,Luiziânia,Demais municípios de SP,414,0.3382,0.3665,152,486,24.8,Baixa
+3501806,Américo de Campos,Demais municípios de SP,558,0.2186,0.2701,151,487,24.7,Baixa
+3500550,Águas de Santa Bárbara,Demais municípios de SP,626,0.222,0.2378,149,488,24.5,Baixa
+3511201,Catiguá,Demais municípios de SP,586,0.1997,0.2531,148,489,24.3,Baixa
+3506409,Bilac,Demais municípios de SP,617,0.2512,0.2382,147,490,24.2,Baixa
+3532603,Nhandeara,Demais municípios de SP,718,0.2019,0.2041,147,491,24.0,Baixa
+3552908,Taciba,Demais municípios de SP,555,0.2198,0.264,146,492,23.9,Baixa
+3529500,Mendonça,Demais municípios de SP,545,0.2954,0.2671,146,493,23.7,Baixa
+3514700,Echaporã,Demais municípios de SP,541,0.2329,0.2655,144,494,23.6,Baixa
+3508306,Cabrália Paulista,Demais municípios de SP,433,0.2564,0.3311,143,495,23.4,Baixa
+3525409,Jeriquara,Demais municípios de SP,417,0.2254,0.3402,142,496,23.3,Baixa
+3507159,Bom Sucesso de Itararé,Demais municípios de SP,406,0.298,0.3484,141,497,23.1,Baixa
+3535200,Palmeira d'Oeste,Demais municípios de SP,700,0.1814,0.2019,141,498,22.9,Baixa
+3507704,Braúna,Demais municípios de SP,517,0.2302,0.2693,139,499,22.8,Baixa
+3548054,Santo Antônio do Aracanguá,Demais municípios de SP,632,0.2089,0.2201,139,500,22.6,Baixa
+3522000,Itaju,Demais municípios de SP,310,0.4839,0.4481,139,501,22.5,Baixa
+3515608,Fernando Prestes,Demais municípios de SP,526,0.2605,0.2601,137,502,22.3,Baixa
+3539608,Planalto,Demais municípios de SP,413,0.2567,0.3281,135,503,22.2,Baixa
+3524907,Jambeiro,Demais municípios de SP,579,0.2504,0.2329,135,504,22.0,Baixa
+3537701,Piacatu,Demais municípios de SP,460,0.1587,0.2886,133,505,21.9,Baixa
+3519907,Iepê,Demais municípios de SP,641,0.156,0.2071,133,506,21.7,Baixa
+3539905,Poloni,Demais municípios de SP,485,0.299,0.2724,132,507,21.6,Baixa
+3516606,Gália,Demais municípios de SP,468,0.2778,0.2804,131,508,21.4,Baixa
+3518909,Guzolândia,Demais municípios de SP,371,0.3181,0.351,130,509,21.2,Baixa
+3544608,Sabino,Demais municípios de SP,336,0.4167,0.3814,128,510,21.1,Baixa
+3534203,Orindiúva,Demais municípios de SP,569,0.1757,0.2252,128,511,20.9,Baixa
+3545704,Santa Albertina,Demais municípios de SP,457,0.2473,0.2797,128,512,20.8,Baixa
+3504305,Avaí,Demais municípios de SP,422,0.2464,0.3023,128,513,20.6,Baixa
+3505005,Barão de Antonina,Demais municípios de SP,351,0.3134,0.3633,128,514,20.5,Baixa
+3525854,Jumirim,Demais municípios de SP,341,0.3724,0.372,127,515,20.3,Baixa
+3517802,Guaraçaí,Demais municípios de SP,604,0.1987,0.2099,127,516,20.2,Baixa
+3535705,Paraíso,Demais municípios de SP,531,0.1808,0.2367,126,517,20.0,Baixa
+3534005,Onda Verde,Demais municípios de SP,471,0.1699,0.2666,126,518,19.8,Baixa
+3535903,Paranapuã,Demais municípios de SP,362,0.2873,0.3467,126,519,19.7,Baixa
+3532504,Neves Paulista,Demais municípios de SP,684,0.2529,0.1827,125,520,19.5,Baixa
+3516853,Gavião Peixoto,Demais municípios de SP,444,0.2568,0.28,124,521,19.4,Baixa
+3549607,São José do Barreiro,Demais municípios de SP,381,0.3386,0.3252,124,522,19.2,Baixa
+3503000,Aramina,Demais municípios de SP,463,0.2851,0.2674,124,523,19.1,Baixa
+3542305,Redenção da Serra,Demais municípios de SP,351,0.3846,0.352,124,524,18.9,Baixa
+3533700,Ocauçu,Demais municípios de SP,401,0.2918,0.2979,119,525,18.8,Baixa
+3520608,Indiana,Demais municípios de SP,477,0.195,0.2467,118,526,18.6,Baixa
+3500907,Altair,Demais municípios de SP,346,0.2023,0.3388,117,527,18.4,Baixa
+3523008,Itapura,Demais municípios de SP,385,0.2312,0.3038,117,528,18.3,Baixa
+3530904,Mombuca,Demais municípios de SP,359,0.3398,0.3234,116,529,18.1,Baixa
+3503505,Areias,Demais municípios de SP,342,0.2544,0.3362,115,530,18.0,Baixa
+3500402,Águas da Prata,Demais municípios de SP,470,0.3298,0.2403,113,531,17.8,Baixa
+3512704,Corumbataí,Demais municípios de SP,392,0.2781,0.2796,110,532,17.7,Baixa
+3537156,Pedrinhas Paulista,Demais municípios de SP,240,0.5417,0.455,109,533,17.5,Baixa
+3543600,Rifaina,Demais municípios de SP,429,0.2284,0.2534,109,534,17.4,Baixa
+3527801,Lupércio,Demais municípios de SP,319,0.2633,0.3378,108,535,17.2,Baixa
+3508207,Buritizal,Demais municípios de SP,367,0.218,0.2935,108,536,17.1,Baixa
+3534104,Oriente,Demais municípios de SP,536,0.1437,0.1992,107,537,16.9,Baixa
+3502606,Aparecida d'Oeste,Demais municípios de SP,355,0.1493,0.2974,106,538,16.7,Baixa
+3516101,Florínea,Demais municípios de SP,317,0.3533,0.3294,104,539,16.6,Baixa
+3548401,Santópolis do Aguapeí,Demais municípios de SP,373,0.2493,0.2794,104,540,16.4,Baixa
+3521200,Iporanga,Demais municípios de SP,360,0.2139,0.2874,103,541,16.3,Baixa
+3543204,Ribeirão do Sul,Demais municípios de SP,382,0.1702,0.2704,103,542,16.1,Baixa
+3529609,Meridiano,Demais municípios de SP,395,0.2,0.2606,103,543,16.0,Baixa
+3526308,Lagoinha,Demais municípios de SP,392,0.2168,0.2621,103,544,15.8,Baixa
+3516804,Gastão Vidigal,Demais municípios de SP,303,0.1584,0.3388,103,545,15.7,Baixa
+3512605,Coronel Macedo,Demais municípios de SP,388,0.2113,0.2637,102,546,15.5,Baixa
+3500204,Adolfo,Demais municípios de SP,342,0.2865,0.2989,102,547,15.3,Baixa
+3532058,Motuca,Demais municípios de SP,356,0.2416,0.2762,98,548,15.2,Baixa
+3517109,Glicério,Demais municípios de SP,327,0.2599,0.2973,97,549,15.0,Baixa
+3541802,Queiroz,Demais municípios de SP,338,0.1598,0.2872,97,550,14.9,Baixa
+3541653,Quadra,Demais municípios de SP,294,0.3197,0.3283,97,551,14.7,Baixa
+3540408,Populina,Demais municípios de SP,321,0.2741,0.2952,95,552,14.6,Baixa
+3525607,João Ramalho,Demais municípios de SP,390,0.1256,0.2425,95,553,14.4,Baixa
+3544400,Rubiácea,Demais municípios de SP,235,0.417,0.3926,92,554,14.3,Baixa
+3512506,Coroados,Demais municípios de SP,418,0.1603,0.2183,91,555,14.1,Baixa
+3502002,Analândia,Demais municípios de SP,392,0.2092,0.2325,91,556,14.0,Baixa
+3501202,Álvares Florence,Demais municípios de SP,292,0.3562,0.3119,91,557,13.8,Baixa
+3528205,Macedônia,Demais municípios de SP,338,0.1893,0.2683,91,558,13.6,Baixa
+3507456,Borebi,Demais municípios de SP,263,0.3232,0.3424,90,559,13.5,Baixa
+3501103,Alto Alegre,Demais municípios de SP,301,0.2425,0.2982,90,560,13.3,Baixa
+3502408,Anhumas,Demais municípios de SP,356,0.2135,0.2475,88,561,13.2,Baixa
+3531704,Monteiro Lobato,Demais municípios de SP,330,0.2697,0.2659,88,562,13.0,Baixa
+3501509,Alvinlândia,Demais municípios de SP,269,0.4275,0.3244,87,563,12.9,Baixa
+3528858,Marapoama,Demais municípios de SP,301,0.2027,0.2786,84,564,12.7,Baixa
+3522158,Itaoca,Demais municípios de SP,307,0.2345,0.2724,84,565,12.6,Baixa
+3531605,Monte Castelo,Demais municípios de SP,352,0.1733,0.2332,82,566,12.4,Baixa
+3546207,Santa Cruz da Conceição,Demais municípios de SP,346,0.159,0.2364,82,567,12.2,Baixa
+3538303,Piquerobi,Demais municípios de SP,285,0.2702,0.2848,81,568,12.1,Baixa
+3542800,Ribeira,Demais municípios de SP,273,0.2527,0.2912,79,569,11.9,Baixa
+3554755,Trabiju,Demais municípios de SP,184,0.4185,0.4276,79,570,11.8,Baixa
+3545506,Sandovalina,Demais municípios de SP,322,0.0714,0.2408,78,571,11.6,Baixa
+3553658,Taquaral,Demais municípios de SP,247,0.1619,0.3067,76,572,11.5,Baixa
+3536901,Pedranópolis,Demais municípios de SP,225,0.2533,0.33,74,573,11.3,Baixa
+3536257,Parisi,Demais municípios de SP,248,0.2863,0.2983,74,574,11.2,Baixa
+3520806,Inúbia Paulista,Demais municípios de SP,313,0.2013,0.2294,72,575,11.0,Baixa
+3540101,Pongaí,Demais municípios de SP,295,0.1831,0.2419,71,576,10.9,Baixa
+3541109,Presidente Alves,Demais municípios de SP,310,0.1968,0.2233,69,577,10.7,Baixa
+3532108,Murutinga do Sul,Demais municípios de SP,303,0.2244,0.2263,69,578,10.5,Baixa
+3515129,Emilianópolis,Demais municípios de SP,267,0.2509,0.2563,68,579,10.4,Baixa
+3500808,Alfredo Marcondes,Demais municípios de SP,380,0.1447,0.1786,68,580,10.2,Baixa
+3552551,Suzanápolis,Demais municípios de SP,301,0.0963,0.2218,67,581,10.1,Baixa
+3539707,Platina,Demais municípios de SP,270,0.1741,0.2461,66,582,9.9,Baixa
+3507753,Brejo Alegre,Demais municípios de SP,209,0.2632,0.3164,66,583,9.8,Baixa
+3548302,Santo Expedito,Demais municípios de SP,255,0.1843,0.2563,65,584,9.6,Baixa
+3536570,Paulistânia,Demais municípios de SP,198,0.2828,0.3291,65,585,9.5,Baixa
+3510104,Cândido Rodrigues,Demais municípios de SP,269,0.2007,0.2411,65,586,9.3,Baixa
+3549201,São João das Duas Pontes,Demais municípios de SP,241,0.2573,0.2684,65,587,9.1,Baixa
+3544509,Rubinéia,Demais municípios de SP,284,0.2113,0.2198,62,588,9.0,Baixa
+3554607,Timburi,Demais municípios de SP,206,0.2379,0.302,62,589,8.8,Baixa
+3520707,Indiaporã,Demais municípios de SP,291,0.3402,0.2131,62,590,8.7,Baixa
+3527504,Lucianópolis,Demais municípios de SP,235,0.1702,0.2619,62,591,8.5,Baixa
+3510906,Cássia dos Coqueiros,Demais municípios de SP,246,0.1789,0.2491,61,592,8.4,Baixa
+3528908,Mariápolis,Demais municípios de SP,267,0.191,0.2281,61,593,8.2,Baixa
+3547106,Santa Mercedes,Demais municípios de SP,231,0.2597,0.2633,61,594,8.1,Baixa
+3533304,Nova Luzitânia,Demais municípios de SP,253,0.2134,0.2361,60,595,7.9,Baixa
+3533809,Óleo,Demais municípios de SP,222,0.2027,0.2651,59,596,7.8,Baixa
+3506201,Bento de Abreu,Demais municípios de SP,242,0.1405,0.2385,58,597,7.6,Baixa
+3503158,Arapeí,Demais municípios de SP,209,0.2153,0.2694,56,598,7.4,Baixa
+3515301,Estrela do Norte,Demais municípios de SP,243,0.1358,0.2298,56,599,7.3,Baixa
+3549250,São João de Iracema,Demais municípios de SP,164,0.2317,0.3388,56,600,7.1,Baixa
+3527256,Lourdes,Demais municípios de SP,176,0.267,0.3129,55,601,7.0,Baixa
+3555703,União Paulista,Demais municípios de SP,167,0.3174,0.3245,54,602,6.8,Baixa
+3557154,Zacarias,Demais municípios de SP,228,0.2544,0.2337,53,603,6.7,Baixa
+3529658,Mesópolis,Demais municípios de SP,189,0.2593,0.2815,53,604,6.5,Baixa
+3530003,Mira Estrela,Demais municípios de SP,218,0.2339,0.2437,53,605,6.4,Baixa
+3508900,Caiabu,Demais municípios de SP,269,0.1933,0.1971,53,606,6.2,Baixa
+3532157,Nantes,Demais municípios de SP,239,0.0753,0.2211,53,607,6.0,Baixa
+3527900,Lutécia,Demais municípios de SP,236,0.2331,0.2213,52,608,5.9,Baixa
+3547403,Santa Rita d'Oeste,Demais municípios de SP,233,0.1888,0.2215,52,609,5.7,Baixa
+3546108,Santa Clara d'Oeste,Demais municípios de SP,235,0.217,0.2184,51,610,5.6,Baixa
+3554656,Torre de Pedra,Demais municípios de SP,158,0.3291,0.3232,51,611,5.4,Baixa
+3544707,Sagres,Demais municípios de SP,196,0.199,0.2471,48,612,5.3,Baixa
+3556958,Vitória Brasil,Demais municípios de SP,161,0.1615,0.2976,48,613,5.1,Baixa
+3549003,São Francisco,Demais municípios de SP,208,0.0721,0.2286,48,614,5.0,Baixa
+3528304,Magda,Demais municípios de SP,240,0.1708,0.1974,47,615,4.8,Baixa
+3514205,Dolcinópolis,Demais municípios de SP,169,0.2959,0.2726,46,616,4.7,Baixa
+3532843,Nova Canaã Paulista,Demais municípios de SP,155,0.1742,0.2799,43,617,4.5,Baixa
+3500600,Águas de São Pedro,Demais municípios de SP,210,0.1714,0.2038,43,618,4.3,Baixa
+3533106,Nova Guataporanga,Demais municípios de SP,185,0.1514,0.2273,42,619,4.2,Baixa
+3515657,Fernão,Demais municípios de SP,144,0.2083,0.2885,42,620,4.0,Baixa
+3543238,Ribeirão dos Índios,Demais municípios de SP,179,0.1397,0.2312,41,621,3.9,Baixa
+3546256,Santa Cruz da Esperança,Demais municípios de SP,175,0.2057,0.2344,41,622,3.7,Baixa
+3515905,Floreal,Demais municípios de SP,181,0.1989,0.2156,39,623,3.6,Baixa
+3503356,Arco-Íris,Demais municípios de SP,167,0.1796,0.2324,39,624,3.4,Baixa
+3503950,Aspásia,Demais municípios de SP,153,0.098,0.2474,38,625,3.3,Baixa
+3514924,Elisiário,Demais municípios de SP,217,0.0783,0.1729,38,626,3.1,Baixa
+3547650,Santa Salete,Demais municípios de SP,123,0.122,0.2883,35,627,2.9,Baixa
+3551306,Sebastianópolis do Sul,Demais municípios de SP,197,0.1523,0.1771,35,628,2.8,Baixa
+3534500,Oscar Bressane,Demais municípios de SP,183,0.1639,0.1905,35,629,2.6,Baixa
+3514957,Embaúba,Demais municípios de SP,157,0.2038,0.2212,35,630,2.5,Baixa
+3529104,Marinópolis,Demais municípios de SP,160,0.1375,0.2162,35,631,2.3,Baixa
+3516507,Gabriel Monteiro,Demais municípios de SP,204,0.152,0.1658,34,632,2.2,Baixa
+3540309,Pontes Gestal,Demais municípios de SP,173,0.2254,0.1951,34,633,2.0,Baixa
+3518008,Guarani d'Oeste,Demais municípios de SP,127,0.2283,0.2216,28,634,1.9,Baixa
+3555307,Turmalina,Demais municípios de SP,123,0.0976,0.2154,26,635,1.7,Baixa
+3549300,São João do Pau d'Alho,Demais municípios de SP,173,0.0925,0.1519,26,636,1.6,Baixa
+3555901,Uru,Demais municípios de SP,113,0.2389,0.2291,26,637,1.4,Baixa
+3555208,Turiúba,Demais municípios de SP,126,0.2063,0.1968,25,638,1.2,Baixa
+3531001,Monções,Demais municípios de SP,122,0.123,0.2008,24,639,1.1,Baixa
+3515806,Flora Rica,Demais municípios de SP,106,0.1887,0.2022,21,640,0.9,Baixa
+3513306,Cruzália,Demais municípios de SP,146,0.0411,0.1428,21,641,0.8,Baixa
+3513850,Dirce Reis,Demais municípios de SP,113,0.1593,0.1806,20,642,0.6,Baixa
+3547205,Santana da Ponte Pensa,Demais municípios de SP,114,0.1579,0.1666,19,643,0.5,Baixa
+3532868,Nova Castilho,Demais municípios de SP,83,0.0602,0.1916,16,644,0.3,Baixa
+3507209,Borá,Demais municípios de SP,60,0.1167,0.1684,10,645,0.2,Baixa

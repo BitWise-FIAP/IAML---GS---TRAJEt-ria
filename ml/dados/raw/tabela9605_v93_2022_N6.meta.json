@@ -1,0 +1,11 @@
+{
+  "tabela": 9605,
+  "descricao": "População residente, por cor ou raça",
+  "url": "https://servicodados.ibge.gov.br/api/v3/agregados/9605/periodos/2022/variaveis/93?localidades=N6[all]&classificacao=86[all]",
+  "periodo": "2022",
+  "nivel": "N6[all]",
+  "coletado_em": "2026-11-14T14:20:33+00:00",
+  "arquivo": "tabela9605_v93_2022_N6.json",
+  "bytes": 4526443,
+  "sha256": "b0e99856949fbf4f756a148e9829a6f6c82d67eadc0c32e385df83bad7f8a98b"
+}

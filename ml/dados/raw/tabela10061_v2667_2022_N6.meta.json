@@ -1,0 +1,11 @@
+{
+  "tabela": 10061,
+  "descricao": "Pessoas de 18 anos ou mais, por nível de instrução e grupo de idade",
+  "url": "https://servicodados.ibge.gov.br/api/v3/agregados/10061/periodos/2022/variaveis/2667?localidades=N6[all]&classificacao=58[100052,108866]|1568[all]|2[6794]|86[95251]",
+  "periodo": "2022",
+  "nivel": "N6[all]",
+  "coletado_em": "2026-11-14T14:20:10+00:00",
+  "arquivo": "tabela10061_v2667_2022_N6.json",
+  "bytes": 7552651,
+  "sha256": "e58d3567a67fc94c2a19e2a24905020614a0d9d3d68dcf250d1646aa254dc1d9"
+}

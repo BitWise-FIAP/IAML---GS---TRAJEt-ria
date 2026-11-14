@@ -1,0 +1,11 @@
+{
+  "tabela": 6805,
+  "descricao": "Domicílios particulares permanentes ocupados, por tipo de esgotamento sanitário",
+  "url": "https://servicodados.ibge.gov.br/api/v3/agregados/6805/periodos/2022/variaveis/381?localidades=N6[all]&classificacao=11558[all]",
+  "periodo": "2022",
+  "nivel": "N6[all]",
+  "coletado_em": "2026-11-14T14:20:22+00:00",
+  "arquivo": "tabela6805_v381_2022_N6.json",
+  "bytes": 7507571,
+  "sha256": "7438aef77453f9c7bf3593a1d556c51f2dcd33b21ec2039ae27395b5f9db7071"
+}

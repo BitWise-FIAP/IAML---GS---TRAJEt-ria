@@ -1,0 +1,11 @@
+{
+  "tabela": 9936,
+  "descricao": "Domicílios particulares permanentes ocupados, por existência de conexão à Internet",
+  "url": "https://servicodados.ibge.gov.br/api/v3/agregados/9936/periodos/2022/variaveis/381?localidades=N6[all]&classificacao=2072[all]|63[95826]|125[2932]",
+  "periodo": "2022",
+  "nivel": "N6[all]",
+  "coletado_em": "2026-11-14T14:20:18+00:00",
+  "arquivo": "tabela9936_v381_2022_N6.json",
+  "bytes": 2273526,
+  "sha256": "7b89a7ecda454ddb49df8cd1e548f203a3f3eaed6fa0a7f83969b4d4bc2d25ec"
+}

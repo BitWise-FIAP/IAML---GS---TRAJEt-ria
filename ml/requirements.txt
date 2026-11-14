@@ -1,0 +1,25 @@
+# Ambiente em que o notebook foi executado:
+#   Python 3.12.10 · pandas 3.0.6 · numpy 2.5.4 · scikit-learn 1.9.1
+#   scipy 1.18.1 · matplotlib 3.11.2 · seaborn 0.13.2 · requests 2.34.2
+#
+# Instalação:
+#   python -m venv .venv
+#   .venv\Scripts\activate        (Windows)
+#   pip install -r requirements.txt
+#
+# Execução do notebook com as saídas:
+#   jupyter nbconvert --to notebook --execute --inplace trajetoria_ml.ipynb
+
+numpy>=1.26,<3
+pandas>=2.2,<4
+scipy>=1.11,<2
+scikit-learn>=1.4,<2
+matplotlib>=3.8,<4
+seaborn>=0.13,<1
+requests>=2.31,<3
+
+# Para reexecutar o notebook
+jupyterlab>=4.0,<5
+nbclient>=0.10,<1
+nbformat>=5.9,<6
+ipykernel>=6.29,<7
