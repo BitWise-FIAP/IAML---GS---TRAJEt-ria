@@ -126,14 +126,6 @@ jupyter nbconvert --to notebook --execute --inplace trajetoria_ml.ipynb
 O notebook funciona **offline**: o snapshot do IBGE está em `dados/raw/`.
 Para forçar nova coleta, rode `ibge_api.baixar_todas(forcar=True)`.
 
-## Como a entrega foi validada
-
-Um script de checagem percorre os itens da rubrica — notebook executado sem
-erros, semente fixa, 24 combinações de 3 hiperparâmetros, CV sem tocar no teste,
-métricas de treino e teste, curva de overfitting, cobertura dos dados e o ranking
-de 645 municípios. Resultado: **37 de 38 itens OK**, sendo o único pendente o link
-do vídeo.
-
 ## Uso de dados
 
 | Fonte | Uso |
@@ -144,21 +136,9 @@ do vídeo.
 
 Detalhes de cada tabela, URLs, período, dicionário e SHA-256: **[`dados/README.md`](dados/README.md)**.
 
-## Entregáveis da disciplina
-
-| Critério | Onde está |
-|---|---|
-| Problema e dados reais (2,0) | `trajetoria_ml.ipynb` §§1–3, `dados/README.md` |
-| Escolha do modelo (1,0) | §7 do notebook e §4 do relatório |
-| Preparação e split (2,0) | §5 do notebook |
-| Treino com ≥10 combinações (2,0) | §7 — 24 combinações, CV só no treino |
-| Treino vs teste e overfitting (2,0) | §§8–9 e figuras `03`, `04` |
-| Conclusão para o cidadão (1,0) | §§11–12 e `dados/processed/prioridade_sp.csv` |
-
 ## Limitações
 
-* Dado **agregado por município**: não permite inferência sobre indivíduos
-  (falácia ecológica) e não estabelece causalidade.
+* Dado **agregado por município**: não permite inferência sobre indivíduos (falácia ecológica) e não estabelece causalidade.
 * Censo 2022 é um **retrato**, não uma previsão.
 * Municípios pequenos têm taxas instáveis; o modelo suaviza os extremos (São
   Caetano do Sul: 14,2% observado contra 20,1% previsto). Por isso o CSV operacional
