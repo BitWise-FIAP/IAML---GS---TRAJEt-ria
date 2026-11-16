@@ -23,11 +23,11 @@ atuar.
 
 ### Equipe
 
-| Nome completo | RM | Turma | `NomeAluno_RM` | Líder |
-|---|---|---|---|---|
-| Enrico Ricarte | 558571 | 3ESPH | `EnricoRicarte_RM558571` | sim |
-| Pedro Gaspar | 554887 | 3ESPH | `PedroGaspar_RM554887` | não |
-| Victor Freire | 556191 | 3ESPH | `VictorFreire_RM556191` | não |
+| Nome completo | RM | Turma | `NomeAluno_RM` 
+|---|---|---|---|
+| Enrico Ricarte | 558571 | 3ESPH | `EnricoRicarte_RM558571` 
+| Pedro Gaspar | 554887 | 3ESPH | `PedroGaspar_RM554887` 
+| Victor Freire | 556191 | 3ESPH | `VictorFreire_RM556191` 
 
 ---
 
