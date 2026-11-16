@@ -65,11 +65,7 @@ fatores em linguagem acessível.
 
 ### 3.1 Fonte e recorte
 
-Todas as variáveis vêm do **Censo Demográfico 2022**, agregadas por município,
-obtidas pela **API v3 do SIDRA** do IBGE. Não houve download manual nem planilha
-intermediária: o notebook chama a API, salva o JSON bruto em `dados/raw/` e
-trabalha a partir desse snapshot — o que torna a entrega reprodutível e auditável
-(URL, data da coleta e SHA-256 registrados em `dados/README.md`).
+Todas as variáveis vêm do **Censo Demográfico 2022**, agregadas por município, obtidas pela **API v3 do SIDRA** do IBGE. 
 
 | Tabela | O que fornece |
 |---|---|
@@ -84,14 +80,7 @@ trabalha a partir desse snapshot — o que torna a entrega reprodutível e audit
 **Cobertura:** 5.570 municípios, com as sete tabelas completas — nenhuma imputação
 foi necessária. São 21,2 milhões de jovens de 18 a 24 anos na base.
 
-### 3.2 O que ficou de fora
-
-* **`assets/mock/seed.json` do aplicativo.** O próprio README do app declara que
-  peças, jovens e pedidos são fictícios. A rubrica não aceita dado simulado.
-* **A pesquisa com os 31 jovens.** Real, porém pequena, não pública e sem
-  representatividade territorial. É citada como motivação, nunca como treino.
-
-### 3.3 Tratamento
+### 3.2 Tratamento
 
 `...` (não disponível) e `X` (sigilo) foram convertidos em `NaN`; `-` virou zero.
 Municípios sem alvo, sem população de 18 a 24 anos ou sem alguma feature seriam
@@ -154,7 +143,7 @@ métricas **ponderadas** pela população jovem.
 
 ## 5. Resultados
 
-### 5.1 Treino versus teste
+### 5.1 Treino vs teste
 
 | Modelo | Conjunto | RMSE | MAE | R² | Spearman |
 |---|---|---|---|---|---|
@@ -274,34 +263,9 @@ dentro do território escolhido; para dimensionar a operação, o volume.
 * **O alvo já é publicado.** O valor do modelo não está em "descobrir" o Censo, e
   sim em explicar os fatores, ranquear com critério transparente e aplicar o score
   a recortes onde o indicador não está disponível.
-
-## 8. Próximos passos
-
-1. Validar o ranking com a ONG parceira — a lista prioriza; o campo confirma.
-2. Refinar para **setores censitários ou bairros** da capital, onde a decisão de
-   raio acontece de fato.
-3. Incorporar **empregabilidade jovem** (PNAD Contínua) para aproximar o alvo da
-   dor relatada na pesquisa: a entrevista de emprego.
-4. Reavaliar o modelo quando o piloto gerar dados reais de demanda — aí sim com
-   dados do próprio serviço, respeitando a LGPD.
-
 ---
 
-## 9. Reprodutibilidade
-
-* Notebook executado (Restart & Run All), semente fixa `42` em todas as etapas
-  aleatórias.
-* Snapshot dos dados do IBGE versionado em `dados/raw/`, com SHA-256.
-* Ambiente e versões em `requirements.txt`.
-* Base de features e ranking em `dados/processed/`.
-
-```bash
-pip install -r requirements.txt
-jupyter nbconvert --to notebook --execute --inplace trajetoria_ml.ipynb
-```
-
 ## Referências
-
 IBGE. **Censo Demográfico 2022**: resultados do universo por município. Rio de
 Janeiro: IBGE, 2023. Disponível em: https://sidra.ibge.gov.br. Acesso em: 14 nov. 2026.
 
