@@ -47,7 +47,7 @@ desenhado para alcançar quem de fato precisa — e não apenas quem está perto
 > médio completo, e quais características do território explicam essa concentração
 > — para priorizar onde o piloto da TRAJEtória deve atuar?**
 
-* **Unidade de análise:** município (`N6`), 5.570 no Brasil e 645 em São Paulo.
+* **Unidade de análise:** município, 5.570 no Brasil e 645 em São Paulo.
 * **Alvo:** proporção de jovens de 18 a 24 anos sem ensino médio completo.
 * **Features:** escolaridade dos adultos, baixa renda, internet, esgotamento
   sanitário, cor/raça, urbanização e estrutura etária.
@@ -84,47 +84,6 @@ desenhado para alcançar quem de fato precisa — e não apenas quem está perto
 Conclusão operacional: o público da TRAJEtória **não está no entorno imediato do
 galpão**. O raio de entrega e a escolha da ONG parceira precisam considerar os
 municípios vizinhos de maior volume — São Bernardo, Santo André, Mauá e Diadema.
-
-## Estrutura do repositório
-
-```
-.
-├── README.md                  # este arquivo
-├── RELATORIO_ML.md            # relatório de 2 a 4 páginas
-├── trajetoria_ml.ipynb        # notebook EXECUTADO (Restart & Run All)
-├── requirements.txt
-├── .gitignore
-├── .gitattributes
-├── src/
-│   └── ibge_api.py            # coleta e tratamento da API do IBGE
-├── dados/
-│   ├── README.md              # fonte, URLs, dicionário, licença, hashes
-│   ├── raw/                   # snapshot das respostas do IBGE (JSON)
-│   └── processed/
-│       ├── municipios_features.csv
-│       └── prioridade_sp.csv
-└── figuras/                   # gráficos gerados pelo notebook
-    └── README.md              # índice das figuras
-```
-
-## Como reproduzir
-
-```bash
-python -m venv .venv
-.venv\Scripts\activate            # Windows
-pip install -r requirements.txt
-
-jupyter lab trajetoria_ml.ipynb   # abrir e ver as saídas salvas
-```
-
-Para reexecutar do zero (Restart & Run All) e regravar as saídas:
-
-```bash
-jupyter nbconvert --to notebook --execute --inplace trajetoria_ml.ipynb
-```
-
-O notebook funciona **offline**: o snapshot do IBGE está em `dados/raw/`.
-Para forçar nova coleta, rode `ibge_api.baixar_todas(forcar=True)`.
 
 ## Uso de dados
 
