@@ -20,7 +20,7 @@ jovens atendidos por ONGs.
 
 A TRAJEtória vai operar um piloto com galpão em **São Caetano do Sul**, cerca de
 **40 entregas por mês** e **R$ 1.000** de orçamento de logística. A documentação
-funcional deixa em aberto a decisão **Q03**: em quais cidades, bairros e raio de
+funcional deixa em aberto a decisão: em quais cidades, bairros e raio de
 entrega o piloto deve atuar.
 
 Este trabalho responde à pergunta com dados públicos do **Censo Demográfico 2022
