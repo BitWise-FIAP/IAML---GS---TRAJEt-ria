@@ -93,7 +93,7 @@ municípios vizinhos de maior volume — São Bernardo, Santo André, Mauá e Di
 | Pesquisa com 31 jovens (projeto) | **Motivação** apenas — amostra pequena e não pública |
 | `seed.json` do aplicativo | **Não utilizado** — dados fictícios, recusados pela rubrica |
 
-Detalhes de cada tabela, URLs, período, dicionário e SHA-256: **[`dados/README.md`](dados/README.md)**.
+Detalhes de cada tabela, URLs, período, dicionário e SHA-256: **[`dados/README.md`](README.md)**.
 
 ## Limitações
 
